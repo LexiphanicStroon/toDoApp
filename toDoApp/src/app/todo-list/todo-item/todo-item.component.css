@@ -1,0 +1,17 @@
+.todo-item {
+border: 1px solid gray;
+padding: 10px;
+width: 600px;
+background-color: #BFC0C0;
+margin: 1px;
+}
+
+.todo-item:hover {
+    background-color: lightblue;
+}
+
+.delete-item {
+    cursor: pointer;
+    float: right;
+    color: red;
+}

@@ -1,0 +1,31 @@
+
+
+
+h1 {
+    text-align: center;
+    color: #2D3142;
+    font-weight: 600;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 800px;
+    align-items: center;
+    border: 1px solid #9DC5BB;
+    margin: 50px;
+    padding: 12px;
+    background-color: #2D3142;
+    flex-wrap: wrap;
+}
+
+.container #query {
+    font-family: 'roboto' sans-serif;
+    font-weight: 300;
+    color: #FFFFFF;
+}
+
+#bottom {
+    color: #FFFFFF;
+    font-weight: 300;
+}
